@@ -1,6 +1,6 @@
 # Page Blocks RM: Omeka S module
 
-This module adds single page block for displaying content on resistancemapping.org.  This is based off of the original pageblocks module by IvyRze
+This module adds single page block for displaying content on resistancemapping.org.  This is based off of the original pageblocks module https://github.com/ivyrze/omeka-s-module-pageblocks by IvyRze
 
 ## Installation
 
